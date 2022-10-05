@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/starseedGiftTestnet2/static/css/main.810106d4.css",
+    "main.js": "/starseedGiftTestnet2/static/js/main.658a393e.js",
+    "static/js/978.a89f24d1.chunk.js": "/starseedGiftTestnet2/static/js/978.a89f24d1.chunk.js",
+    "static/js/932.2825d7ad.chunk.js": "/starseedGiftTestnet2/static/js/932.2825d7ad.chunk.js",
+    "static/js/510.d4ed355a.chunk.js": "/starseedGiftTestnet2/static/js/510.d4ed355a.chunk.js",
+    "static/js/719.c2c9025f.chunk.js": "/starseedGiftTestnet2/static/js/719.c2c9025f.chunk.js",
+    "static/js/531.fcee4707.chunk.js": "/starseedGiftTestnet2/static/js/531.fcee4707.chunk.js",
+    "static/js/651.2f36007e.chunk.js": "/starseedGiftTestnet2/static/js/651.2f36007e.chunk.js",
+    "static/js/313.1fa9c444.chunk.js": "/starseedGiftTestnet2/static/js/313.1fa9c444.chunk.js",
+    "static/js/867.c3fd240a.chunk.js": "/starseedGiftTestnet2/static/js/867.c3fd240a.chunk.js",
+    "static/js/27.bfcdabbd.chunk.js": "/starseedGiftTestnet2/static/js/27.bfcdabbd.chunk.js",
+    "static/js/992.06691b3f.chunk.js": "/starseedGiftTestnet2/static/js/992.06691b3f.chunk.js",
+    "static/js/362.7e09fa0b.chunk.js": "/starseedGiftTestnet2/static/js/362.7e09fa0b.chunk.js",
+    "static/js/508.570f9329.chunk.js": "/starseedGiftTestnet2/static/js/508.570f9329.chunk.js",
+    "static/js/480.9dba995b.chunk.js": "/starseedGiftTestnet2/static/js/480.9dba995b.chunk.js",
+    "static/js/889.c8d35c3a.chunk.js": "/starseedGiftTestnet2/static/js/889.c8d35c3a.chunk.js",
+    "static/js/685.5b32c44d.chunk.js": "/starseedGiftTestnet2/static/js/685.5b32c44d.chunk.js",
+    "static/js/703.80ef7024.chunk.js": "/starseedGiftTestnet2/static/js/703.80ef7024.chunk.js",
+    "static/js/562.b804890c.chunk.js": "/starseedGiftTestnet2/static/js/562.b804890c.chunk.js",
+    "static/js/611.a145814b.chunk.js": "/starseedGiftTestnet2/static/js/611.a145814b.chunk.js",
+    "static/js/942.50548e38.chunk.js": "/starseedGiftTestnet2/static/js/942.50548e38.chunk.js",
+    "index.html": "/starseedGiftTestnet2/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.810106d4.css",
+    "static/js/main.658a393e.js"
+  ]
+}
